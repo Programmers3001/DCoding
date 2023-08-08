@@ -1,8 +1,9 @@
 # DCoding
 Encoder/Decoder of my own custom encoding named DCoding.
 
-Run main.exe to run nice gui for encode/decode.
+Run gui.py to run nice gui for encode/decode.
 You'll need these dependancies:
 - Tkinter
+- sv_ttk
 
-install it using "pip install tkinter".
+install it using "pip install tkinter" and "pip install sv_ttk".
