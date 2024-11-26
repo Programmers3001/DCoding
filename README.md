@@ -7,3 +7,6 @@ You'll need these dependancies:
 - sv_ttk
 
 install it using `pip install tkinter` and `pip install sv_ttk`.
+
+# More Customization
+You can edit the JSON file to create your own dictionary.
